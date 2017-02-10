@@ -56,4 +56,4 @@ if (POMS[msg.content]){
 });
 
 
-bot.login("MjY2MzUwMDkwODU4Mzk3Njk2.C1kYrA.QNq_LMN1jP8NigOSxjIiWUa6M90");
+bot.login("token");
